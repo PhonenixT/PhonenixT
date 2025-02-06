@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I am a seasoned Developer and DevOps Engineer with over 10 years of experience in application development and cloud technologies. I specialize in Adobe Experience Manager (AEM), Java, and cloud-based DevOps solutions, bringing a strong mix of development and operational expertise.<br><br>I hold multiple certifications, including:<br>✅ Certified AEM Developer & AEM DevOps Engineer<br>✅ AWS Certified Solutions Architect<br>✅ Microsoft Certified: Azure DevOps Engineer<br><br>Key Expertise:<br>🔹 AEM Development & DevOps – Extensive experience in Adobe Experience Manager, Apache Sling, OSGi, and Adobe Campaign.<br>🔹 Application Development – Skilled in Java, J2EE, HTL (Sightly), HTML, CSS, JavaScript, and backend development.<br>🔹 Cloud Technologies – Hands-on experience with AWS, Azure, and Adobe Marketing Cloud.<br>🔹 CI/CD & Automation – Strong background in cloud infrastructure, automation, and DevOps best practices.<br><br>I am always open to collaboration on projects related to AEM development, Java, and backend web development. Let’s connect and innovate together! 🚀
 
-<!--
-**PhonenixT/PhonenixT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Sling_Model](https://img.shields.io/badge/Sling_Model-%23323330.svg?style=for-the-badge&logo=Sling_Model&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Experience Manager](https://img.shields.io/badge/Adobe%20Experience%20Manager-DA1F26.svg?style=for-the-badge&logo=Adobe%20Experience%20Manager&logoColor=white) ![REST_API](https://img.shields.io/badge/rest_api%20-%23181717.svg?style=for-the-badge&logo=rest_api&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OSGI Framework](https://img.shields.io/badge/OSGI_Framework-34495E?style=for-the-badge&logo=OSGI_Framework&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=CSS&logoColor=white) ![HTL_(Sightly)](https://img.shields.io/badge/HTL_(Sightly)-%23000000.svg?style=for-the-badge&logo=HTL_(Sightly)_&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PhonenixT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PhonenixT&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhonenixT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=PhonenixT&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
